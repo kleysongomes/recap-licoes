@@ -296,7 +296,7 @@ function App() {
                     <h1>{story.stats.minutes}</h1>
                  </div>
                  <div className="genre-stat">
-                    <span>Top Genre</span>
+                    <span>Top encontros</span>
                     <h2>{story.stats.top_genre}</h2>
                  </div>
               </div>
